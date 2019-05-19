@@ -1,3 +1,6 @@
+#This script acts just like Matrix opening scene in your bash shell.
+#Enjoy!
+
 #!/bin/bash
 clear
 sleep 5
